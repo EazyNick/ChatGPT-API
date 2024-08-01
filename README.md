@@ -26,7 +26,7 @@ response = client.chat_completions.create(
     )
 response_message = response.choices[0].message['content']
 print(f"response_message: {response_message}")
-
+```
 
 ## 요구 사항
 
