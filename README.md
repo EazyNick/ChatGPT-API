@@ -1,6 +1,6 @@
 # ChatGPT API 사용법
 
-OpenAI의 ChatGPT API를 사용하는 방법 / 24.08 기준
+OpenAI의 ChatGPT API를 사용하는 방법 / 24.08 기준 <br>
 현재 main.ipynb에서는 기아차 주가를 불러와서, 주가를 바탕으로 gpt에게 매수하면 좋을지, 매도하면 좋을지를 점수로 알려달라는 질문을 하고있습니다.<br>
 실제 API 요청 부분은 아래 코드를 참고해주세요.
 <br>
