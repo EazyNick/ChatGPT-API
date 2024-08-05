@@ -17,8 +17,3 @@ Document를 추가해서, 내 문서를 토대로 gpt가 답변할 수 있도록
 
 ```bash
 pip install openai, pandas, python-dotenv, openpyxl, python-pptx
-
-
-
-
-
